@@ -1,0 +1,22 @@
+body{
+     border: 5px solid black;
+     padding: 40px;
+}
+.interes{
+     border: 5px solid black;
+     display: inline-block;
+}
+
+.img{ 
+     border: 5px solid rgb(245, 241, 5);
+     display: inline-block;
+   
+}
+.gan{
+     border: 5px solid rgb(0, 102, 255);
+     display: inline-block;
+     padding: 10px;
+}
+.title{
+     padding: 20px;
+}
